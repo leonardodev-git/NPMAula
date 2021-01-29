@@ -1,0 +1,19 @@
+{
+  "name": "dh-aula-npm",
+  "version": "1.0.0",
+  "description": "meu primeiro modulo node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardodev-git/NPMAula.git"
+  },
+  "author": "Leonardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardodev-git/NPMAula/issues"
+  },
+  "homepage": "https://github.com/leonardodev-git/NPMAula#readme"
+}
